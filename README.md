@@ -1,20 +1,20 @@
 # 📊 Power BI Dashboard Projects
 
 ## 🔍 Overview
-This repository contains data analysis and dashboard projects created using Power BI, Excel, and Tableau. These projects focus on transforming raw data into meaningful insights through interactive visualizations.
+This repository contains data analysis and dashboard projects built using Power BI, Excel, and Tableau. The aim is to transform raw data into meaningful business insights through interactive visualizations.
 
 ---
 
-## 📁 Projects
+## 📁 Projects Included
 
-### 1. Sales Data Dashboard
-- Built an interactive dashboard to analyze sales performance and trends  
-- Visualized revenue, growth, and key business metrics  
-- Performed data cleaning and preprocessing using Excel  
+### 🔹 Sales Data Dashboard
+- Developed an interactive dashboard to analyze sales performance and trends  
+- Visualized key metrics such as revenue, growth, and performance  
+- Applied data cleaning and preprocessing techniques  
 
-### 2. Salary Analysis Dashboard
+### 🔹 Salary Analysis Dashboard
 - Analyzed employee salary data using visualization tools  
-- Identified patterns and insights for better understanding  
+- Identified patterns and insights for better decision-making  
 
 ---
 
@@ -25,13 +25,13 @@ This repository contains data analysis and dashboard projects created using Powe
 
 ---
 
-## 📷 Dashboard Screenshots
+## 📷 Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](./your-image-name.jpg)
+![Sales Dashboard](./sales-dashboard.jpg)
 
 ### Salary Dashboard
-![Salary Dashboard](./your-image-name2.jpg)
+![Salary Dashboard](./salary-dashboard.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ This repository contains data analysis and dashboard projects created using Powe
 ---
 
 ## 📌 Conclusion
-These projects helped me strengthen my data analysis and visualization skills, and understand how to convert raw data into actionable insights.
+These projects helped strengthen my skills in data analysis and visualization, and improved my ability to convert raw data into actionable insights.
 
 ---
 
