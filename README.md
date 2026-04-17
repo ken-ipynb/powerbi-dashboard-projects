@@ -1,41 +1,53 @@
-# Power BI Dashboard Projects
+# 📊 Power BI Dashboard Projects
 
- ## 📊 Overview
-This repository contains data analysis and dashboard projects created using Power BI, Excel, and Tableau. The goal of these projects is to analyze datasets and generate meaningful business insights through visualization.
+## 🔍 Overview
+This repository contains data analysis and dashboard projects created using Power BI, Excel, and Tableau. These projects focus on transforming raw data into meaningful insights through interactive visualizations.
 
+---
 
-
-## 📁 Projects Included
+## 📁 Projects
 
 ### 1. Sales Data Dashboard
-- Analyzed sales performance and trends  
-- Created interactive dashboards using Power BI  
-- Visualized revenue, growth, and key metrics  
+- Built an interactive dashboard to analyze sales performance and trends  
+- Visualized revenue, growth, and key business metrics  
+- Performed data cleaning and preprocessing using Excel  
 
 ### 2. Salary Analysis Dashboard
-- Analyzed employee salary data  
-- Identified patterns and insights using visualization tools  
+- Analyzed employee salary data using visualization tools  
+- Identified patterns and insights for better understanding  
 
+---
 
-
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 - Power BI  
 - Microsoft Excel  
 - Tableau  
 
+---
 
+## 📷 Dashboard Screenshots
 
-## 📷 Screenshots
-(Add your images below this line)
+### Sales Dashboard
+![Sales Dashboard](./your-image-name.jpg)
 
+### Salary Dashboard
+![Salary Dashboard](./your-image-name2.jpg)
 
+---
 
 ## 🚀 Skills Demonstrated
-- Data cleaning and preprocessing  
-- Dashboard creation and visualization  
-- Data analysis and insight generation  
+- Data Cleaning & Preprocessing  
+- Data Visualization  
+- Dashboard Development  
+- Business Insight Generation  
 
-
+---
 
 ## 📌 Conclusion
-These projects helped in improving my skills in data analysis and visualization, and understanding how to convert raw data into meaningful insights.
+These projects helped me strengthen my data analysis and visualization skills, and understand how to convert raw data into actionable insights.
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/ken-ipynb  
+- LinkedIn: https://www.linkedin.com/in/pradeep-pandey-62a582325/  
