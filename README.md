@@ -14,7 +14,13 @@ This repository contains data analysis and dashboard projects built using Power 
 
 ### 🔹 Salary Analysis Dashboard
 - Analyzed employee salary data using visualization tools  
-- Identified patterns and insights for better decision-making  
+- Identified patterns and insights for better decision-making
+## 📊 **Key Insights:**
+- Analyzed company profit based on different product categories  
+- Compared performance of products to identify top-selling items  
+- Studied customer purchasing trends across products  
+- Identified which products generated higher sales and revenue  
+- Observed sales patterns over time to understand business growth  
 
 ---
 
