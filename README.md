@@ -42,6 +42,17 @@ This repository contains data analysis and dashboard projects built using Power 
 - Business Insight Generation  
 
 ---
+## 📷 Dashboard Preview
+
+### Sales Dashboard
+![Sales Dashboard](./sales-dashboard-overview(4).jpg)
+![Sales Dashboard](./sales-dashboard-overview(5).jpg)
+![Sales Dashboard](./sales-dashboard-overview(3).jpg)
+![Sales Dashboard](./sales-dashboard-overview(2).jpg)
+![Sales Dashboard](./sales-dashboard-overview.jpg)
+
+### Salary Dashboard
+![Salary Dashboard](./salary-dashboard.jpg)
 
 ## 📌 Conclusion
 These projects helped strengthen my skills in data analysis and visualization, and improved my ability to convert raw data into actionable insights.
